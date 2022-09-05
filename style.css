@@ -279,3 +279,28 @@ ems-container{
     width: 270px;
     margin-bottom: 20px;
   }
+
+  /* Follow US Section */
+
+  .follow_us_section_heading{
+    text-align: center;
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: #183b56;
+  }
+
+  .follow_icon_container{
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    text-align: center;
+    padding: 22px;
+    margin: 10px;
+  }
+
+  .icon {
+    color: #d0b200;
+    font-size: 35px;
+  }
